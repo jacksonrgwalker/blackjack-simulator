@@ -30,7 +30,7 @@ You can access a summary of the game.
 ```python
 game.summary()
 ```
-```python
+```
 Number of rounds simulated:          3
 Jack | Win Rate: 0.6667 | Draw Rate: 0.0000
 Zack | Win Rate: 0.3333 | Draw Rate: 0.0000
@@ -47,7 +47,7 @@ game = Game(table=big_table, min_cards_to_reshuffle=50)
 game.simulate_rounds(50_000, verbose=False, delay=0)
 game.summary()
 ```
-```python
+```
 Number of rounds simulated:     50,000
 Max Hit on 9 | Win Rate: 0.3866 | Draw Rate: 0.0595
 Max Hit on 10 | Win Rate: 0.3980 | Draw Rate: 0.0632
