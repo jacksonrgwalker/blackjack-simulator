@@ -1,4 +1,5 @@
 
+
 # blackjack-simulator
 
 A simple, pure python simulator for the card game blackjack.
@@ -14,7 +15,7 @@ cody = Player(strategy = DealerStrat(max_hit_value=16), name='Cody')
 dealer=Dealer(strategy = DealerStrat(max_hit_value=16))
 ```
 
-The `DealerStrat` is a simple strategy that most casino dealers are directed to follow: you must hit if you are below a certain threshold, otherwise stay.
+The `DealerStrat` is a simple strategy that most casino dealers are directed to follow: you must hit if you are below a certain threshold, otherwise stay. Other strategies can be easily implemented.
 
 Now, we the players sit around a table and start the game.
 
