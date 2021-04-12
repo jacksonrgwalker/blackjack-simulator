@@ -62,4 +62,4 @@ Max Hit on 18 | Win Rate: 0.3611 | Draw Rate: 0.0759
 Max Hit on 19 | Win Rate: 0.2931 | Draw Rate: 0.0596
 Max Hit on 20 | Win Rate: 0.1541 | Draw Rate: 0.0226
 ```
-![bar chart](results.gif)
+![bar chart](results.png)
