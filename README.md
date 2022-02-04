@@ -1,4 +1,4 @@
-
+[See the post on my website here](http://jwalk.io/projects/blackjack-simulator)
 
 # blackjack-simulator
 
